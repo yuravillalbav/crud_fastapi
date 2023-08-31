@@ -1,0 +1,22 @@
+# Ignore Mac system files 
+.DS_store
+
+# Ignore node_modules folder
+node_modules
+
+# Ignore all text files
+*.txt
+
+# Ignore files related to API keys
+.env
+.venv
+env/
+venv/
+crud_api.db
+
+# Ignore SASS configuration files
+.sass-cache
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+__init__.py
