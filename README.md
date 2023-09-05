@@ -15,8 +15,7 @@
 
 - fastapi
 - uvicorn
-- sqlalchemy
-- pydantic
+- sqlmodel
 
 ## Uso 🔧
 
@@ -31,4 +30,4 @@ La API estará disponible en: `http://localhost:8000`.
 
 Puedes acceder a la documentación interactiva de la API visitando: `http://localhost:8000/docs`.
 
-⌨️ con ❤️ por yuravillalbav 😊
+⌨️ con ❤️ por [yuravillalbav 😊](https://github.com/yuravillalbav)
